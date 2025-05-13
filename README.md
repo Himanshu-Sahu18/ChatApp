@@ -80,3 +80,5 @@ chat-app/
 MIT 
 
 ## Output
+![Image](https://github.com/user-attachments/assets/acb83792-2b28-447f-8e52-8d6ad15b7a98)
+![Image](https://github.com/user-attachments/assets/d6ffdf0f-68ce-4f2b-8994-5ec8c721e12a)
