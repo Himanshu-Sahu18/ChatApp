@@ -1,6 +1,6 @@
 # Real-Time Chat Application
 
-A modern real-time chat application with a Telegram-style UI built using React.js, Node.js, Socket.IO, and MongoDB.
+A modern real-time chat application built using React.js, Node.js, Socket.IO, and MongoDB.
 
 ## Features
 
